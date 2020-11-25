@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ass-form-part-i"
+    }
+  },
+  "defaultProject": "ass-form-part-i",
+  "cli": {
+    "analytics": "286d3022-f477-42bb-9d8a-b6c99158ac63"
+  }
 }
